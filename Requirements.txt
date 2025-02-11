@@ -1,0 +1,7 @@
+streamlit
+requests
+speechrecognition
+pyttsx3
+csv
+json
+os
